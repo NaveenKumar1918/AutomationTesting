@@ -1,0 +1,24 @@
+[
+    {
+        "firstname": "deepak",
+        "lastname": "Kumar",
+        "totalprice": 223,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-07-02",
+            "checkout": "2024-09-24"
+        },
+        "additionalneeds": "FullMeals"
+    },
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "totalprice": 2500,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-08-10",
+            "checkout": "2024-08-20"
+        },
+        "additionalneeds": "Breakfast"
+    }
+]

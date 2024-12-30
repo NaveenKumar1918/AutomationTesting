@@ -1,0 +1,11 @@
+{
+    "firstname" : "Naveen",
+    "lastname" : "Kumar",
+    "totalprice" :1918,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2024-07-02",
+        "checkout" : "2024-09-24"
+    },
+    "additionalneeds" : "FullMeals"
+}
